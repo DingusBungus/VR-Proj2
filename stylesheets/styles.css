@@ -87,7 +87,7 @@ header p {
   font-size: 13px;
 }
 
-p.centered {
+header p.centered {
   margin: 20px 0 20px;
   padding: 0;
   text-align: center;
